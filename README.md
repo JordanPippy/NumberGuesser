@@ -9,3 +9,5 @@ Dependencies:
     -Pillow
     -TKinter
     -Probably more
+
+Run with command 'python drawing.py' or 'python3 drawing.py' if using bash.
